@@ -1,0 +1,8 @@
+Alice [sync] is trying to withdraw $70
+Charlie [lock] is trying to withdraw $80
+Dave [lock] is trying to withdraw $50
+Alice [sync] completed withdrawal. Balance: $130
+Bob [sync] is trying to withdraw $90
+Charlie [lock] completed withdrawal. Balance: $130
+Bob [sync] completed withdrawal. Balance: $40
+Dave [lock] completed withdrawal. Balance: $-10
