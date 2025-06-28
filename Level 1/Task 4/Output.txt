@@ -1,0 +1,13 @@
+#1 Enter desired password length: 8
+   Include lowercase letters? (y/n): n
+   Include uppercase letters? (y/n): y
+   Include numbers? (y/n): y
+   Include special characters? (y/n): n
+   Generated Password: YNS7SMJ8
+
+#2 Enter desired password length: 5
+   Include lowercase letters? (y/n): y
+   Include uppercase letters? (y/n): y
+   Include numbers? (y/n): y
+   Include special characters? (y/n): y
+   Generated Password: Yd*5m

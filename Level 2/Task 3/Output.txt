@@ -1,0 +1,48 @@
+✅ Step-by-Step - Encrypt a File in OnlineGDB
+
+
+🔧 Step 1 - Open OnlineGDB
+Go to https://www.onlinegdb.com/online_java_compiler
+Make sure "Java" is selected as the language.
+
+
+📄 Step 2 - Create input.txt in the Files Panel
+    1. On the left side, click on the “Files” panel.
+    2. Name the file - input.txt
+    3. Inside input.txt, paste this content:
+                                            nginx
+                                            Copy
+                                            Edit
+                                            Hello World 123!
+
+
+🧠 Step 3 - Paste the Java Program in Main.java
+
+
+▶️ Step 4 - Run the Program
+     When prompted in the terminal:
+
+     Choose an option (1 = Encrypt, 2 = Decrypt): 1
+     Enter input file name (e.g., input.txt): input.txt
+     Enter output file name (e.g., output.txt): output.txt
+
+
+📂 Step 5 - View output.txt
+     After the program completes, go to the Files panel again.
+     You’ll see a new file output.txt.
+     Click it — you’ll see the encrypted text (characters shifted by +3).
+
+
+Example -
+
+Original:
+nginx
+Copy
+Edit
+Hello World 123!
+
+Encrypted:
+qjlq{
+Frs|
+Hglw
+Khoor#Zruog#456$
