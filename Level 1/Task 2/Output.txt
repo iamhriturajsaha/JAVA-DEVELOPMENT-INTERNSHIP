@@ -1,5 +1,0 @@
-#1 Enter a word or phrase: A man, a plan, a canal, Panama
-   It is a palindrome.
-
-#2 Enter a word or phrase: Hello World
-   It is not a palindrome.

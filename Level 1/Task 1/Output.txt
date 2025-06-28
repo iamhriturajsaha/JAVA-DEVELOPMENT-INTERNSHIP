@@ -1,7 +1,0 @@
-#1 Enter the temperature value: 100
-   Enter the unit (C for Celsius, F for Fahrenheit): C
-   100.00°C = 212.00°F
-
-#2 Enter the temperature value: 2000
-   Enter the unit (C for Celsius, F for Fahrenheit): F
-   2000.00°F = 1093.33°C
