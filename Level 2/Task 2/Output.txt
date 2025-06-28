@@ -1,7 +1,0 @@
-Enter your password: Abc123
-
-Password Strength Analysis:
-- Too short (minimum 8 characters recommended)
-- No special characters
-
-Overall Strength: Moderate 👌
