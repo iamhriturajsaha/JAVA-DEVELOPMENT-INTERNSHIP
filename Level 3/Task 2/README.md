@@ -50,8 +50,3 @@ A simple calculator application built using JavaFX for the user interface. This 
   <img src="assets/images/calculator-light.png" alt="Calculator Light UI" width="300" />
   <img src="assets/images/calculator-dark.png" alt="Calculator Dark UI" width="300" />
 </p>
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENCE](LICENCE) file for details. 📝
-
