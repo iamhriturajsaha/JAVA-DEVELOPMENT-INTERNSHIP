@@ -1,6 +1,6 @@
 # 🖥️ Java Development Internship @ Cognifyz Technologies
 
-This repository contains all the tasks completed as part of my **Java Development Internship** at **Cognifyz Technologies**. The internship was structured into **three levels**, each designed to enhance specific Java programming skills—from basic logic building to desktop applications and multithreading concepts.
+This repository contains all the tasks completed as part of my **Java Development Internship** at **Cognifyz Technologies**. The internship was structured into **three levels**, each designed to enhance specific Java programming skills, from basic logic building to desktop applications and multithreading concepts.
 
 ---
 
