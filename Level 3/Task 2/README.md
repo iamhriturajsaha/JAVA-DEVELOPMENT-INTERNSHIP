@@ -2,7 +2,7 @@
 
 ## 📜 Description
 
-A simple calculator application built using JavaFX for the user interface. This desktop application supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a responsive user interface with optional dark mode and includes utility classes for parsing operations and managing calculator states.
+A simple calculator application built using JavaFX for the user interface. This desktop application supports basic arithmetic operations such as addition, subtraction, multiplication and division. The app features a responsive user interface with optional dark mode and includes utility classes for parsing operations and managing calculator states.
 
 ## 📝 Notes
 
@@ -12,20 +12,20 @@ A simple calculator application built using JavaFX for the user interface. This 
 
 ## 🛠️ Usage
 
-1. **Launch the Application**: 
+1. **Launch the Application** -
    - Run the application by executing the `MainClass.java` in the `com.calculator.main` package. 🚀
 
-2. **Calculator Interface**:
-   - **Numeric Buttons**: Click or input numbers directly to the calculator. 🔢
-   - **Operation Buttons**: Choose operations such as addition (`+`), subtraction (`-`), multiplication (`×`), division (`÷`) and more. ➕➖✖️➗
-   - **Display**: The main display shows the current input and the result of calculations. 📟
-   - **Equals Button**: Compute the result of the current (binary) operation. ✅
-   - **Clear and Clear Entry Buttons**: Reset the current input or operation. 🧹
-   - **Dark Mode Toggle**: Switch between light and dark modes for a customized user experience. 🌙
+2. **Calculator Interface** -
+   - **Numeric Buttons** - Click or input numbers directly to the calculator. 🔢
+   - **Operation Buttons** - Choose operations such as addition (`+`), subtraction (`-`), multiplication (`×`), division (`÷`) and more.
+   - **Display** - The main display shows the current input and the result of calculations. 📟
+   - **Equals Button** - Compute the result of the current (binary) operation. ✅
+   - **Clear and Clear Entry Buttons** - Reset the current input or operation. 🧹
+   - **Dark Mode Toggle** - Switch between light and dark modes for a customized user experience. 🌙
 
-3. **Core Functionality**:
-   - **Binary Operations**: Handle operations that involve two numbers (e.g., `5 + 3`). 
-   - **Unary Operations**: Execute operations with a single operand (e.g., reciprocal or percentage).
+3. **Core Functionality** -
+   - **Binary Operations** - Handle operations that involve two numbers (e.g., `5 + 3`). 
+   - **Unary Operations** - Execute operations with a single operand (e.g., reciprocal or percentage).
 
 ## 📁 Project Structure
 
