@@ -45,7 +45,8 @@ A simple calculator application built using JavaFX for the user interface. This 
     - `styles/` - CSS for styling the application (`styles.css`)
     - `calculator-main.fxml` - FXML layout file for the calculator interface
 
-## 🖼️ Screenshots
+## 🖼️ Quick Glance
+
 <p align="center">
   <img src="assets/images/calculator-light.png" alt="Calculator Light UI" width="300" />
   <img src="assets/images/calculator-dark.png" alt="Calculator Dark UI" width="300" />
